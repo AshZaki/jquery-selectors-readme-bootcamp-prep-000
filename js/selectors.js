@@ -18,4 +18,6 @@ function divSelector(){
 }
 
 
-function 
+function firstListItem(){
+  return $('ul:')
+}
